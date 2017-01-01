@@ -2,7 +2,7 @@
 
 Little Birdy lives in a beautiful house with all his brothers and sisters. They have divided all the things that need to be done around the house and Birdy is in charge of taking care of the garden and the veggies, so there is always something to eat.
 
-[![](http://cd.sseu.re/00_birdy_lives_in_a_house.png)](http://cd.sseu.re/00_birdy_lives_in_a_house.png)
+[![](http://cd.sseu.re/00_birdy_lives_in_a_house_gray.png)](http://cd.sseu.re/00_birdy_lives_in_a_house_gray.png)
 
 
 
@@ -13,7 +13,7 @@ Little Birdy lives in a beautiful house with all his brothers and sisters. They 
 
 Every day when Birdy wakes up, his personal assistant, Leo, informs him about the different tasks to be accomplished during the day.
 
-[![](http://cd.sseu.re/01_birdy_wakes_up.png)](http://cd.sseu.re/01_birdy_wakes_up.png)
+[![](http://cd.sseu.re/01_birdy_wakes_up_gray.png)](http://cd.sseu.re/01_birdy_wakes_up_gray.png)
 
 ```
 > Leo: Good morning, Birdy! Did you sleep well?
@@ -53,7 +53,7 @@ _**Hint:** This is an example of how the conversation above should appear in the
 
 Before he gets out of the house, he always has a look at the map of the universe to know the different stops he needs to make upfront:
 
-[![](http://cd.sseu.re/birdy_universe_map_square.png)](http://cd.sseu.re/birdy_universe_map_square.png)
+[![](http://cd.sseu.re/universe_map_new_veggie_2000.png)](http://cd.sseu.re/universe_map_new_veggie_2000.png)
 
 
 
@@ -64,7 +64,7 @@ Before he gets out of the house, he always has a look at the map of the universe
 
 Birdy has little memory and he always goes first to greet Dr. Octopus. She is the wise mind of the universe and she knows everything.
 
-[![](http://cd.sseu.re/02_birdy_greets_dr_octopus.png)](http://cd.sseu.re/02_birdy_greets_dr_octopus.png)
+[![](http://cd.sseu.re/02_birdy_greets_dr_octopus_gray.png)](http://cd.sseu.re/02_birdy_greets_dr_octopus_gray.png)
 
 ```
 > Dr. Octopus: Good morning, Birdy.
@@ -116,7 +116,7 @@ Mr. Owlie is the housekeeper of the Republic. He doesn't do much during the day,
 
 He has a little secret: he doesn't like veggies at all! So he makes sure not to touch them ever and let the others do the hard work. He can get cranky quite easy, so just be friends with him!
 
-[![](http://cd.sseu.re/03_birdy_meets_mr_owlie.png)](http://cd.sseu.re/03_birdy_meets_mr_owlie.png)
+[![](http://cd.sseu.re/03_birdy_meets_mr_owlie_gray.png)](http://cd.sseu.re/03_birdy_meets_mr_owlie_gray.png)
 
 ```
 > Mr. Owlie: Good morning, Sir. May I help you?
@@ -171,7 +171,7 @@ Miss Bee loves gardening and veggies. She is very hard working and spends her da
 
 Birdy knows her since a long time and they are best friends. They enjoy their time playing together, not only in the garden, but also around the whole universe.
 
-[![](http://cd.sseu.re/04_birdy_helps_miss_bee_with_key.png)](http://cd.sseu.re/04_birdy_helps_miss_bee_with_key.png)
+[![](http://cd.sseu.re/04_birdy_helps_miss_bee_gray.png)](http://cd.sseu.re/04_birdy_helps_miss_bee_gray.png)
 
 ```
 > Miss Bee: Hi, Birdy! I am so happy to see you.
@@ -204,7 +204,7 @@ Mrs. Doris is the librarian of the Republic. You will find her writing stories a
 
 Everyone has a little secret in this universe: Mrs. Doris likes to look super pretty all the time!
 
-[![](http://cd.sseu.re/05_birdy_visits_mrs_doris.png)](http://cd.sseu.re/05_birdy_visits_mrs_doris.png)
+[![](http://cd.sseu.re/05_birdy_visits_mrs_doris_gray.png)](http://cd.sseu.re/05_birdy_visits_mrs_doris_gray.png)
 
 ```
 > Birdy: Good morning, Mrs. Doris. My name is Birdy and I am here to get a confirmation letter. I just collected all the ripe broccoli from the garden with the help of Miss Bee. Mr. Owlie mentioned that you could also do some beautiful drawings full of broccoli.
@@ -246,6 +246,8 @@ Have a safe trip back home. Come back soon, Birdy!
 ## 6. Birdy comes back home
 
 Back home, Leo is already waiting for Birdy. He makes sure that all the broccoli is good enough to be cooked. The kitchen is all set to start preparing lunch!
+
+[![](http://cd.sseu.re/06_birdy_comes_home_gray.png)](http://cd.sseu.re/06_birdy_comes_home_gray.png)
 
 ```
 > Leo: Welcome back, Birdy! Did you collect the broccoli?
