@@ -1,3 +1,5 @@
+_Check out [this link](http://www.miriamtocino.com/projects/the_universe_of_birdy.pdf) for a pdf version of this story._
+
 # The Universe of Birdy
 
 Little Birdy lives in a beautiful house with all his brothers and sisters. They have divided all the things that need to be done around the house and Birdy is in charge of taking care of the garden and the veggies, so there is always something to eat.
